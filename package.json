@@ -1,0 +1,25 @@
+{
+  "name": "mongo-bread",
+  "version": "1.0.0",
+  "description": "challange #22",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codago/mongo-bread.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codago/mongo-bread/issues"
+  },
+  "homepage": "https://github.com/codago/mongo-bread#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "mongodb": "^2.2.31",
+    "path": "^0.12.7"
+  }
+}
